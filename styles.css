@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  margin: 0;
+}
+
+header {
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  background-image: url("./images/bg-header-desktop.png");
+  background-size: cover;
+}
